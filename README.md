@@ -17,7 +17,7 @@ Cost, observability and safety for coding agents — the unglamorous infrastruct
 
 | | |
 |---|---|
-| **[ai-agent-cost-usage-panel](https://github.com/andrewbakercloudscale/ai-agent-cost-usage-panel)** | Live cost/usage panel + auto-split Ghostty launcher for Claude Code and OpenCode CLI sessions. [Write-up](https://andrewbaker.ninja/2026/08/22/ai-coding-costs-are-guesswork-without-this-instrumenting-opencode-and-claude-code/) |
+| **[claude-code-cost-sidebar](https://github.com/andrewbakercloudscale/claude-code-cost-sidebar)** | Live cost, token and context usage sidebar for Claude Code: cost per turn, cache hit rate, burn rate, plan limits and 30-day spend, inside the session. [Write-up](https://andrewbaker.ninja/2026/08/22/ai-coding-costs-are-guesswork-without-this-instrumenting-opencode-and-claude-code/) |
 | **[claude-burst](https://github.com/andrewbakercloudscale/claude-burst)** | Local gateway that arbitrages Anthropic subscription vs. metered pricing, with AWS Bedrock overflow. [Write-up](https://andrewbaker.ninja/2026/08/28/two-prices-for-the-same-model-building-claude-burst/) |
 | **[cloudscale-claude-code-extender](https://github.com/andrewbakercloudscale/cloudscale-claude-code-extender)** | Floating iTerm2 panel showing live Claude Code command history. |
 | **[wp-plugin-standards-claude-skills](https://github.com/andrewbakercloudscale/wp-plugin-standards-claude-skills)** | Claude Code skill enforcing WordPress.org submission standards, security hardening and PCP compliance. |
